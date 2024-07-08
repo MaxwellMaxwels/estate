@@ -22,19 +22,19 @@ const PriceRangeDropdown = () => {
       value: 'Price range (any)',
     },
     {
-      value: '1-2',
+      value: '110000 - 130000',
     },
     {
-      value: '3-4',
+      value: '130000 - 160000',
     },
     {
-      value: '5-6',
+      value: '160000 - 190000',
     },
     {
-      value: '7-8',
+      value: '190000 - 220000',
     },
     {
-      value: '9-10',
+      value: '220000-250000',
     },
   ]
 
