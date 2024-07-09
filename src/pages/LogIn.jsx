@@ -8,11 +8,11 @@ const LogIn = () => {
         <h2 className="text-2xl font-bold mb-4">Log In</h2>
         <form>
           <div className="mb-4">
-            <label className="block text-sm font-bold mb-2" htmlFor="email">Email*</label>
+            <label className="block text-sm font-bold mb-2" htmlFor="email">Email<span className="text-red-500">*</span></label>
             <input className="w-full px-3 py-2 border rounded-lg" id="email" type="email" placeholder="Email" />
           </div>
           <div className="mb-4">
-            <label className="block text-sm font-bold mb-2" htmlFor="password">Password*</label>
+            <label className="block text-sm font-bold mb-2" htmlFor="password">Password<span className="text-red-500">*</span></label>
             <input className="w-full px-3 py-2 border rounded-lg" id="password" type="password" placeholder="Password" />
           </div>
           <button className="w-full bg-purple-700 text-white py-2 px-4 rounded-lg">Log In</button>

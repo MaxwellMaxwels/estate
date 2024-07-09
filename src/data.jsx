@@ -72,7 +72,7 @@ export const housesData = [
     price: '110000',
     agent: {
       image: Agent1,
-      name: 'Patricia Tullert',
+      name: 'Sam Wanjiru',
       phone: '0123 456 78910',
     },
   },
@@ -93,7 +93,7 @@ export const housesData = [
     price: '140000',
     agent: {
       image: Agent2,
-      name: 'Daryl Hawker',
+      name: 'Maxwell',
       phone: '0123 456 78910',
     },
   },
@@ -114,7 +114,7 @@ export const housesData = [
     price: '170000',
     agent: {
       image: Agent3,
-      name: 'Amado Smith',
+      name: 'Kevin Kibet',
       phone: '0123 456 78910',
     },
   },
@@ -135,7 +135,7 @@ export const housesData = [
     price: '200000',
     agent: {
       image: Agent4,
-      name: 'Kaitlyn Gonzalez',
+      name: 'Maureen N',
       phone: '0123 456 78910',
     },
   },
@@ -156,7 +156,7 @@ export const housesData = [
     price: '210000',
     agent: {
       image: Agent5,
-      name: 'Grover Robinson',
+      name: 'Jack Robinson',
       phone: '0123 456 78910',
     },
   },
@@ -177,7 +177,7 @@ export const housesData = [
     price: '220000',
     agent: {
       image: Agent6,
-      name: 'Karen Sorensen',
+      name: 'Karen Wilson',
       phone: '0123 456 78910',
     },
   },
@@ -198,7 +198,7 @@ export const housesData = [
     price: '20000',
     agent: {
       image: Agent7,
-      name: 'Jawhar Shamil Naser',
+      name: 'Jawhar Shamil',
       phone: '0123 456 78910',
     },
   },
