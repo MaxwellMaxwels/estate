@@ -21,7 +21,7 @@ const Search = () => {
       <CountryDropdown />
       <PropertyDropdown />
       <PriceRangeDropdown />
-      <button onClick = {()=> handleClick()} className='bg-green-700
+      <button className='bg-green-700
         hover:bg-green-800 transition w-full 1g: max-w-
         [162px] h-16 rounded-lg flex justify-center
         items-center text-white text-lg'>
