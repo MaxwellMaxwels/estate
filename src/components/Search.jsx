@@ -9,10 +9,10 @@ import PropertyDropdown from './PropertyDropdown';
 import PriceRangeDropdown from './PriceRangeDropdown';
 
 // import context
-import {HouseContext} from './HouseContext';
+//import {HouseContext} from './HouseContext';
 
 const Search = () => {
-  const {handleClick} = useContext(HouseContext)
+  //const {handleClick} = useContext(HouseContext)
   
   return (
     <div className='px-[150px] py-6 max-w-[1170px] max-auto flex flex-col 
